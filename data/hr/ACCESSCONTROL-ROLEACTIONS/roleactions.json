@@ -30660,15 +30660,9 @@
       "actionid": 2909,
       "actioncode": "",
       "tenantId": "hr"
-    },
+    },    
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 2910,
-      "actioncode": "",
-      "tenantId": "hr"
-    },
-    {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "HQSTATEUSER",
       "actionid": 2910,
       "actioncode": "",
       "tenantId": "hr"
